@@ -5,7 +5,9 @@ Interactive Excel Dashboard For Revenue and Profit of Sales Dataset
 
   
 ## 🚀 About Me
-I'm a Freshers and i love in the field of Data science, Machine learning and Data Analyst and i had done 6 month of internship in Machine Learning field. I used to have a creative thinking with the real world problem and try to analize it and try to implement it.
+Seeking a challenging role on Data Analyst/Data Scientist/ML engineer where I can utilize my analytical problem-
+solving skills along with technical skills to analyse business need and execute the strategies for the firm.
+Currently Holding Experience of MySQL DBA where having excellent skills in python, MySQL, Tableau, Advanced-Excel, ML, DL and NLP.
 
   
 # Excel Dashboard on Revenue and Profit of Sales
